@@ -1,8 +1,7 @@
 
 
-### ![Issues](https://github.com/onecompiler/community/issues)
- for reporting any problems
-If something is not working as intended, please report them in the issues https://github.com/onecompiler/community/issues
+### [Java](https://github.com/onecompiler/community/issues)
+reporting any problems
 
 
-### ![js](https://github.com/onecompiler/community/discussions)
+### [js](https://github.com/onecompiler/community/discussions)
